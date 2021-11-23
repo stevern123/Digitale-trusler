@@ -1,0 +1,18 @@
+ /* overskrifts boks */
+div {
+    width: 100px;
+    height: 100px;
+    background: #926b4e;
+    transition: width 2s;
+  }
+
+  div:hover {
+    width: 1420px;
+  }
+
+
+  
+/* alt over er overskrifts boks */
+
+
+
